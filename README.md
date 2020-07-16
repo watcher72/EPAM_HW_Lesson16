@@ -1,0 +1,1 @@
+#### Homework to the lesson 16 "Regexp and text analysis" (course Python $ BigData)
